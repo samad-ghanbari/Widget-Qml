@@ -8,6 +8,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+
     QQuickView *view = new QQuickView();
     view->setSource(QUrl("qrc:/Main.qml"));
 
@@ -16,7 +17,6 @@ MainWindow::MainWindow(QWidget *parent)
     QWidget *container = QWidget::createWindowContainer(view, this);
 
      layout->addWidget(container);
-    setCentralWidget(new QWidget);
     centralWidget()->setLayout(layout);
 }
 
