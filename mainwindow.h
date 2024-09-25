@@ -17,7 +17,8 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 public slots:
-    int getNumber(int n){ return 2*n;};
+    int getNumber(int n){ return 2*n;}
+    QString getVersion(){return "1.0.0";}
 
 private:
     Ui::MainWindow *ui;

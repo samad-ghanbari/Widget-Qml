@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent)
     QQuickView *view = new QQuickView();
     QQmlContext *rootContext = view->rootContext();
     rootContext->setContextProperty("myClass", this);
-    view->setSource(QUrl("qrc:/Main.qml"));
+    view->setSource(QUrl("qrc:/Main2.qml"));
 
     QVBoxLayout *layout = new QVBoxLayout;
 

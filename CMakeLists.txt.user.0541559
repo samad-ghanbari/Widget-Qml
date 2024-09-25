@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 14.0.1, 2024-09-25T22:05:56. -->
+<!-- Written by QtCreator 14.0.1, 2024-09-25T16:58:48. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{534722e8-595f-4196-a4df-2f4a2ef01025}</value>
+  <value type="QByteArray">{05415593-ed8a-43d8-b5d9-7e664c4505a7}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -93,7 +93,7 @@
    <value type="QString" key="DeviceType">Desktop</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 6.7.2 GCC 64bit</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 6.7.2 GCC 64bit</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{f6222be6-88c3-42c0-b73d-d09d9ea4f1ed}</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{fae0f6b6-bafb-4952-ac6f-546d93f52c71}</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="qlonglong" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
@@ -103,15 +103,15 @@
     <value type="bool" key="CMake.Configure.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="CMake.Configure.UserEnvironmentChanges"/>
     <value type="QString" key="CMake.Initial.Parameters">-DCMAKE_BUILD_TYPE:STRING=Debug
--DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
--DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
--DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}
 -DCMAKE_GENERATOR:STRING=Ninja
+-DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
+-DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_PROJECT_INCLUDE_BEFORE:FILEPATH=%{BuildConfig:BuildDirectory:NativeFilePath}/.qtc/package-manager/auto-setup.cmake
--DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
+-DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
+-DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/Cpp/QT/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -160,14 +160,14 @@
     <value type="bool" key="CMake.Configure.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="CMake.Configure.UserEnvironmentChanges"/>
     <value type="QString" key="CMake.Initial.Parameters">-DCMAKE_BUILD_TYPE:STRING=Release
--DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
--DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
--DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}
 -DCMAKE_GENERATOR:STRING=Ninja
+-DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
+-DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_PROJECT_INCLUDE_BEFORE:FILEPATH=%{BuildConfig:BuildDirectory:NativeFilePath}/.qtc/package-manager/auto-setup.cmake
--DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/Cpp/QT/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Release</value>
+-DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
+-DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -214,14 +214,14 @@
     <value type="bool" key="CMake.Configure.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="CMake.Configure.UserEnvironmentChanges"/>
     <value type="QString" key="CMake.Initial.Parameters">-DCMAKE_BUILD_TYPE:STRING=RelWithDebInfo
--DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
--DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
--DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}
 -DCMAKE_GENERATOR:STRING=Ninja
+-DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
+-DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_PROJECT_INCLUDE_BEFORE:FILEPATH=%{BuildConfig:BuildDirectory:NativeFilePath}/.qtc/package-manager/auto-setup.cmake
--DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/Cpp/QT/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-RelWithDebInfo</value>
+-DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
+-DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-RelWithDebInfo</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -268,15 +268,15 @@
     <value type="bool" key="CMake.Configure.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="CMake.Configure.UserEnvironmentChanges"/>
     <value type="QString" key="CMake.Initial.Parameters">-DCMAKE_BUILD_TYPE:STRING=RelWithDebInfo
--DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
--DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
--DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}
 -DCMAKE_GENERATOR:STRING=Ninja
+-DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
+-DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_PROJECT_INCLUDE_BEFORE:FILEPATH=%{BuildConfig:BuildDirectory:NativeFilePath}/.qtc/package-manager/auto-setup.cmake
--DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
+-DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
+-DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/Cpp/QT/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -323,14 +323,14 @@
     <value type="bool" key="CMake.Configure.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="CMake.Configure.UserEnvironmentChanges"/>
     <value type="QString" key="CMake.Initial.Parameters">-DCMAKE_BUILD_TYPE:STRING=MinSizeRel
--DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
--DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
--DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}
 -DCMAKE_GENERATOR:STRING=Ninja
+-DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
+-DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}
 -DCMAKE_PROJECT_INCLUDE_BEFORE:FILEPATH=%{BuildConfig:BuildDirectory:NativeFilePath}/.qtc/package-manager/auto-setup.cmake
--DCMAKE_CXX_FLAGS_INIT:STRING=%{Qt:QML_DEBUG_FLAG}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/Cpp/QT/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-MinSizeRel</value>
+-DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
+-DQT_QMAKE_EXECUTABLE:FILEPATH=%{Qt:qmakeExecutable}</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-MinSizeRel</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.BuildPreset"></value>
@@ -402,7 +402,7 @@
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/samad/share/programs/Cpp/QT/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
