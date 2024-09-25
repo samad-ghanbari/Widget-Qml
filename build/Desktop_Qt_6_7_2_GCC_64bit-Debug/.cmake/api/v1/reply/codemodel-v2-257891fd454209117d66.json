@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d6c62af36d146833c67f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Widget-Qml",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Widget-Qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Widget-Qml-Debug-68a8047ea7d0daa7fcb8.json",
+					"name" : "Widget-Qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Widget-Qml_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Widget-Qml_autogen-Debug-428890f735d2be0d6680.json",
+					"name" : "Widget-Qml_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Widget-Qml_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Widget-Qml_autogen_timestamp_deps-Debug-d62830a0eff7dff874be.json",
+					"name" : "Widget-Qml_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Widget-Qml_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Widget-Qml_qmlimportscan-Debug-6ed4eb8e5b272f78e0f7.json",
+					"name" : "Widget-Qml_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug",
+		"source" : "/home/samad/share/programs/CPP/Widget-Qml"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

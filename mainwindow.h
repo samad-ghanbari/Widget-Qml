@@ -16,6 +16,8 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+public slots:
+    int getNumber(int n){ return 2*n;};
 
 private:
     Ui::MainWindow *ui;

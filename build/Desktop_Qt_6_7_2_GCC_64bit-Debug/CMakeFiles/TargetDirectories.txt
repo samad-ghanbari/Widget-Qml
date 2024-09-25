@@ -1,0 +1,10 @@
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/Widget-Qml.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/Widget-Qml_qmlimportscan.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/Widget-Qml_autogen_timestamp_deps.dir
+/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/Widget-Qml_autogen.dir

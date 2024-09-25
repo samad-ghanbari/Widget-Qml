@@ -1,0 +1,22 @@
+# ninja log v6
+15	1207	1727258356912910559	CMakeFiles/Widget-Qml.dir/mainwindow.cpp.o	5368aa016ddae8a3
+2	20	1727256625914917162	.qt/qml_imports/Widget-Qml_build.cmake	c90c9a6765a2ae92
+3	6	1727258965161908238	/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp	a26749a47f57b2d4
+2	20	1727256625914917162	/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/.qt/qml_imports/Widget-Qml_build.cmake	c90c9a6765a2ae92
+3	11	1727258356899910559	/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen/mocs_compilation.cpp	6740f6dfb3c7a553
+3	11	1727258356899910559	Widget-Qml_autogen/mocs_compilation.cpp	6740f6dfb3c7a553
+6	22	1727258965161908238	CMakeFiles/Widget-Qml.dir/Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp.o	271a219c424ad315
+3	11	1727258356899910559	/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen/timestamp	6740f6dfb3c7a553
+22	317	1727258965177908238	Widget-Qml	58bcac0ce24a3026
+3	6	1727258965161908238	Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp	a26749a47f57b2d4
+3	11	1727258356899910559	Widget-Qml_autogen/timestamp	6740f6dfb3c7a553
+162	1134	1727257741861912905	CMakeFiles/Widget-Qml.dir/Widget-Qml_autogen/mocs_compilation.cpp.o	9484bfc5d32e576f
+162	1144	1727257741861912905	CMakeFiles/Widget-Qml.dir/main.cpp.o	cc5ae55fc794903c
+3	7	1727259011912908060	Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp	a26749a47f57b2d4
+3	7	1727259011912908060	/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp	a26749a47f57b2d4
+7	23	1727259011913908060	CMakeFiles/Widget-Qml.dir/Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp.o	271a219c424ad315
+23	321	1727259011929908060	Widget-Qml	58bcac0ce24a3026
+3	8	1727259065858907854	Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp	a26749a47f57b2d4
+3	8	1727259065858907854	/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp	a26749a47f57b2d4
+8	24	1727259065859907854	CMakeFiles/Widget-Qml.dir/Widget-Qml_autogen/EWIEGA46WW/qrc_resource.cpp.o	271a219c424ad315
+24	326	1727259065875907854	Widget-Qml	58bcac0ce24a3026

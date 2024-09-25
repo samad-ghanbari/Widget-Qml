@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen",
+	"CMAKE_BINARY_DIR" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/samad/share/programs/CPP/Widget-Qml",
+	"CMAKE_SOURCE_DIR" : "/home/samad/share/programs/CPP/Widget-Qml",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/Widget-Qml_autogen/include",
+	"INPUTS" : [ "/home/samad/share/programs/CPP/Widget-Qml/Main.qml" ],
+	"LOCK_FILE" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/Widget-Qml_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/samad/share/programs/CPP/Widget-Qml/build/Desktop_Qt_6_7_2_GCC_64bit-Debug/CMakeFiles/Widget-Qml_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/samad/share/programs/CPP/Widget-Qml/resource.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
